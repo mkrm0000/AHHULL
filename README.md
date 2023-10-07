@@ -1,10 +1,10 @@
-#AHHULL 1.0 Doc
-##Made by Ismam Labib and Mokarrom Hossain
+# AHHULL 1.0 Doc  
+Made by Ismam Labib and Mokarrom Hossain  
 
-What is AHHULL:
+**What is AHHULL:**
 -- AHHULL is a simple GUI program that turns a OFFSET DATA TABLE (.csv) into a 3D Autocad file (.dxf)
 
-How to use AHHULL:
+**How to use AHHULL:**
 	BUILD/EXE:
 		Step 1: RUN AHHULL.exe
 		Step 2: Input Length Between Perpendicular
@@ -18,18 +18,21 @@ How to use AHHULL:
 		Step 3: Run the main.py
 		Step 4: [Same as :step 1 to 6 of exe version]
 
-WHY AHHULL:
+**WHY AHHULL:**
 -- m e h ^_^ idk
 
 
-I want to build from source:
+**I want to build from source:**
 -- We used cxFreeze for the packaging. So you have to pip install it.
    We already wrote a simple setup.py if you want to change it then it's your responsibility
    check "https://stackoverflow.com/questions/9895636/how-do-i-use-cx-freeze" for details
 
 
-Third Party Libs:
+**Third Party Libs:**
 -- tkinter (for gui)
 -- matplotlib (for 3d visualization)
 -- numpy (for math)
 -- ezdxf (for writing dxf file programmatically)
+
+**Credit and Thoughts:**  
+-- We started this project as just a simple hobby project. Who knows what will happen to this after ages. Let's see. **Open for any kind of advice and feedback or contribution**
