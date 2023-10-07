@@ -15,7 +15,7 @@ Made by Ismam Labib ([@ismam3](https://www.github.com/ismam3)) and Mokarrom Hoss
 - Source:  
   - Step 1: You need to have python and some python library to run through code [See Below]  
   - Step 2: Open 'main.py'  
-  - Step 3: Run the main.py  
+  - Step 3: Run the **main.py**  
   - Step 4: [Same as : step 1 to 6 of exe version]  
 
 **WHY AHHULL:**  
